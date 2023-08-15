@@ -6,7 +6,7 @@
 <p align="center">🏠From tianjin,China🏠<p>
 <p align="center">🏫Undergraduate at TJUT, major in SE 🏫</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyczyc70)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyczyc70&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyczyc70&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
