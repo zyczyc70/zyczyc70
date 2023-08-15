@@ -11,14 +11,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyczyc70&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  🌱 I’m currently learning web,java
-
- <details>
-  <summary>📫 How to reach me:</summary>
- WeChat:zyczyc70
- QQ:751449337
+ 
+ 📫 How to reach me:<br/>
+ 
+ WeChat:zyczyc70<br/>
+ 
+ QQ:751449337<br/>
+ 
  Email:751449337@qq.com
    
-</details>
+
 
 🥰And This is my blog:https://zyczyc70.github.io/🥰
 
