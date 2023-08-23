@@ -8,6 +8,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyczyc70&show_icons=true&theme=highcontrast)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zyczyc70/zyczyc70/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zyczyc70/zyczyc70/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Little-Data/Little-Data/output/github-contribution-grid-snake.svg" />
+</picture> 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyczyc70&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  🌱 I’m currently learning web,java
@@ -24,11 +30,6 @@
 
 🥰And This is my blog:https://zyczyc70.github.io/🥰
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zyczyc70/zyczyc70/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zyczyc70/zyczyc70/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Little-Data/Little-Data/output/github-contribution-grid-snake.svg" />
-</picture> 
 
 
 <!--
