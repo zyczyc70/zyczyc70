@@ -28,7 +28,7 @@
    
 
 
-🥰And This is my blog:(https://www.zyczyc70.top/)🥰
+🥰And This is my blog:https://www.zyczyc70.top/🥰
 
 
 
